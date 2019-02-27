@@ -1,0 +1,22 @@
+{
+  "name": "react-admin-tutorial",
+  "version": "1.0.0",
+  "description": "Tutorial of React Admin package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviddelusenet/react-admin-tutorial.git"
+  },
+  "keywords": [
+    "React"
+  ],
+  "author": "David de Lusenet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daviddelusenet/react-admin-tutorial/issues"
+  },
+  "homepage": "https://github.com/daviddelusenet/react-admin-tutorial#readme"
+}
